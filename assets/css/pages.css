@@ -1871,30 +1871,37 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:691px !important;
 }
 
-#item10888 {
+#item12175 {
 	width:600px !important;
 	height:799px !important;
 }
 
-#item10889 {
+#item12176 {
 	width:600px !important;
 	height:800px !important;
 	top:-1px !important;
 	background:#ffc12d;
 }
 
-#item10900 {
+#item12187 {
 	width:600px !important;
 	height:799px !important;
 }
 
-#item10906 {
+#item12193 {
 	width:600px !important;
 	height:799px !important;
 }
 
-#item10919 {
+#item12205 {
 	width:600px !important;
 	height:799px !important;
+}
+
+#item12399 {
+	width:312px !important;
+	height:69px !important;
+	left:232px !important;
+	top:578px !important;
 }
 #in5footer,  #prefooter {display:none;}
